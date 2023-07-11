@@ -11,13 +11,6 @@
         "format": "text/html"
       }
     ],
-    "provider": [
-      {
-        "id": "https://bjorkk.github.io/example-bk/",
-        "type": "Agent",
-        "label": { "en": [ "bk" ] }
-      }
-    ],
     "items": [
       {
         "id": "https://bjorkk.github.io/example-bk/recording-1/canvas-1/canvas",
