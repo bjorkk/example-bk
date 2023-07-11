@@ -11,6 +11,13 @@
         "format": "text/html"
       }
     ],
+    "provider": [
+      {
+        "id": "http://www.floridamemory.com/",
+        "type": "Agent",
+        "label": { "en": [ "Florida Memory" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://bjorkk.github.io/example-bk/recording-1/canvas-1/canvas",
