@@ -15,7 +15,7 @@
       {
         "id": "https://bjorkk.github.io/example-bk/recording-1/canvas-1/canvas",
         "type": "Canvas",
-        "duration": S1576,
+        "duration": 1576,
         "items": [
           {
             "id": "https://bjorkk.github.io/example-bk/recording-1/canvas-1/paintings",
@@ -27,7 +27,7 @@
                 "motivation": "painting",
                 "body": {
                   "id": "http://www.floridamemory.com/items/show/238291",
-                    "duration": S1576
+                    "duration": 1576
                 },
                 "target": "https://bjorkk.github.io/example-bk/recording-1/canvas-1/canvas"
               }
